@@ -31,6 +31,8 @@ make
 
 ## Running
 
+Tested on macOS Sequoia (15.6.1) ARM64:
+
 ```
 qtmacbiometric % cd MyBiometricApp/Contents/MacOS
 MacOS % ./MyBiometricApp 
